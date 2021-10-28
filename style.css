@@ -32,13 +32,9 @@ p {
   display: inline-block;
 }
 
-#nav-list ul li {
-  float: left;
-}
-
 #nav-list ul li a {
   text-align: center;
-  width: 165px;
+  width: 170px;
   padding: 1em;
   text-decoration: none;
   background-color: rgb(0, 183, 255);
