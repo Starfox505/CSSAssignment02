@@ -50,3 +50,10 @@ p {
   text-align: right;
   font-size: 12px;
 }
+
+#centered-image {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 25%;
+}
